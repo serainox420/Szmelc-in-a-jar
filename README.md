@@ -1,2 +1,2 @@
-# Szmelc-in-a-jar
-Some random trashy / pointless minecraft mods and assets
+# 🅂🅉🄼🄴🄻🄲 IN A 🅹🅰🆁
+Some random trashy / game breaking minecraft mods and assets
