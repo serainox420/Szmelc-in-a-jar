@@ -1,0 +1,2 @@
+Dummy .jar "mod"
+Only purpose is to crash client while trying to use Modmenu
